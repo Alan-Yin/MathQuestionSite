@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mathquestionsite/static/css/main.a1271f01.chunk.css",
+    "main.js": "/mathquestionsite/static/js/main.bf879438.chunk.js",
+    "main.js.map": "/mathquestionsite/static/js/main.bf879438.chunk.js.map",
+    "runtime-main.js": "/mathquestionsite/static/js/runtime-main.c3aadc48.js",
+    "runtime-main.js.map": "/mathquestionsite/static/js/runtime-main.c3aadc48.js.map",
+    "static/css/2.f9fe476d.chunk.css": "/mathquestionsite/static/css/2.f9fe476d.chunk.css",
+    "static/js/2.d42f3f93.chunk.js": "/mathquestionsite/static/js/2.d42f3f93.chunk.js",
+    "static/js/2.d42f3f93.chunk.js.map": "/mathquestionsite/static/js/2.d42f3f93.chunk.js.map",
+    "static/js/3.40d6926c.chunk.js": "/mathquestionsite/static/js/3.40d6926c.chunk.js",
+    "static/js/3.40d6926c.chunk.js.map": "/mathquestionsite/static/js/3.40d6926c.chunk.js.map",
+    "static/js/4.60113ce7.chunk.js": "/mathquestionsite/static/js/4.60113ce7.chunk.js",
+    "static/js/4.60113ce7.chunk.js.map": "/mathquestionsite/static/js/4.60113ce7.chunk.js.map",
+    "static/js/5.8945c8f6.chunk.js": "/mathquestionsite/static/js/5.8945c8f6.chunk.js",
+    "static/js/5.8945c8f6.chunk.js.map": "/mathquestionsite/static/js/5.8945c8f6.chunk.js.map",
+    "index.html": "/mathquestionsite/index.html",
+    "static/css/2.f9fe476d.chunk.css.map": "/mathquestionsite/static/css/2.f9fe476d.chunk.css.map",
+    "static/css/main.a1271f01.chunk.css.map": "/mathquestionsite/static/css/main.a1271f01.chunk.css.map",
+    "static/js/2.d42f3f93.chunk.js.LICENSE.txt": "/mathquestionsite/static/js/2.d42f3f93.chunk.js.LICENSE.txt",
+    "static/js/3.40d6926c.chunk.js.LICENSE.txt": "/mathquestionsite/static/js/3.40d6926c.chunk.js.LICENSE.txt",
+    "static/js/4.60113ce7.chunk.js.LICENSE.txt": "/mathquestionsite/static/js/4.60113ce7.chunk.js.LICENSE.txt",
+    "static/media/font.css": "/mathquestionsite/static/media/ChaoYanZeTeMaoKai.bdb9a35f.woff",
+    "static/media/katex.min.css": "/mathquestionsite/static/media/KaTeX_Typewriter-Regular.ea67dc3c.ttf",
+    "static/media/check.723686e2.svg": "/mathquestionsite/static/media/check.723686e2.svg",
+    "static/media/logo.5a6502b1.png": "/mathquestionsite/static/media/logo.5a6502b1.png",
+    "static/media/paper.d2196357.svg": "/mathquestionsite/static/media/paper.d2196357.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3aadc48.js",
+    "static/css/2.f9fe476d.chunk.css",
+    "static/js/2.d42f3f93.chunk.js",
+    "static/css/main.a1271f01.chunk.css",
+    "static/js/main.bf879438.chunk.js"
+  ]
+}
