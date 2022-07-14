@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "ChaoYanZeTeMaoKai";
+  src: local("ChaoYanZeTeMaoKai"),
+    url(./fonts/ChaoYanZeTeMaoKai.woff) format("woff");
+}
+
+@font-face {
+  font-family: "ArphicHeitiBold";
+  src: local("ArphicHeitiBold"),
+    url(./fonts/ArphicHeitiBold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "ArphicHeitiLight";
+  src: local("ArphicHeitiLight"),
+    url(./fonts/ArphicHeitiLight.woff) format("woff");
+}
+
